@@ -17,19 +17,39 @@ A German software company based in Düsseldorf with 15+ years of experience in d
 
 ---
 
-## Featured projects — the Chronova ecosystem
+## Featured projects & ecosystem
 
-We don't just develop for clients — we build our own products that we use every day. Chronova is our developer-analytics platform, surrounded by a family of tools we run in production ourselves.
+We don't just develop for clients — we build our own products that we use every day across developer productivity, AI agent tooling, and specialized web platforms.
 
-| Project | Lang | Description |
-|---------|------|-------------|
-| **[Chronova](https://chronova.dev)** | TypeScript | Developer analytics platform tracking coding activity through heartbeats — dashboards, goal tracking, team organizations, WakaTime-compatible APIs |
-| **[chronova-android](https://github.com/nx-solutions-ug/chronova-android)** | Kotlin | Android client for Chronova developer analytics |
+### ⏱️ The Chronova Ecosystem
+
+[Chronova](https://chronova.dev) is our developer-analytics platform tracking coding activity across editors and AI tools through heartbeats.
+
+| Project | Lang / Tech | Description |
+|---------|-------------|-------------|
+| **[Chronova](https://chronova.dev)** | TypeScript / Next.js | Developer analytics platform tracking coding activity through heartbeats — dashboards, goal tracking, team organizations, WakaTime-compatible APIs |
+| **[chronova-android](https://github.com/nx-solutions-ug/chronova-android)** | Kotlin | Native Android client for Chronova developer analytics |
 | **[chronova-cli](https://github.com/nx-solutions-ug/chronova-cli)** | Rust | High-performance, drop-in replacement for `wakatime-cli` |
-| **[chronova-mcp](https://github.com/nx-solutions-ug/chronova-mcp)** | TypeScript | MCP server exposing Chronova productivity data to AI agents |
-| **[chronova-pi-plugin](https://github.com/nx-solutions-ug/chronova-pi-plugin)** | TypeScript | Heartbeat tracking extension for oh-my-pi |
-| **[omp-comment-checker](https://github.com/nx-solutions-ug/omp-comment-checker)** | TypeScript | Comment checker hook for oh-my-pi |
-| **[wiki-agent](https://github.com/nx-solutions-ug/wiki-agent)** | TypeScript | Standalone Ollama-only documentation agent |
+| **[chronova-mcp](https://github.com/nx-solutions-ug/chronova-mcp)** | TypeScript | MCP server exposing Chronova productivity data to AI agents via the Model Context Protocol |
+| **[antigravity-plugin](https://github.com/nx-solutions-ug/antigravity-plugin)** | TypeScript | Chronova heartbeat tracking plugin for Google Antigravity |
+| **[chronova-pi-plugin](https://github.com/nx-solutions-ug/chronova-pi-plugin)** | TypeScript | Chronova heartbeat tracking extension for oh-my-pi |
+
+### 🤖 AI Agent & Developer Tooling
+
+Tools and extensions designed for autonomous agentic workflows and developer productivity.
+
+| Project | Lang / Tech | Description |
+|---------|-------------|-------------|
+| **[wiki-agent](https://github.com/nx-solutions-ug/wiki-agent)** | TypeScript / Bun | Standalone documentation agent (Ollama & OpenAI-compatible) that inspects codebases and generates structured wikis under `.wiki/` |
+| **[omp-comment-checker](https://github.com/nx-solutions-ug/omp-comment-checker)** | TypeScript | Comment checker hook for oh-my-pi with self-healing context injection via `session_compact` |
+| **[skill-sync](https://github.com/nx-solutions-ug/skill-sync)** | TypeScript | Tool to sync agent skills across harness directories via symlinks to a common store |
+
+### 📱 Platforms & In-House Products
+
+| Project | Lang / Tech | Description |
+|---------|-------------|-------------|
+| **[KitaCom](https://github.com/nx-solutions-ug/kitacom)** | TypeScript / Next.js | Multi-tenant kindergarten communication platform with real-time messaging, attendance tracking, meal planning, and PWA |
+| **[nx-solutions-redesign](https://github.com/nx-solutions-ug/nx-solutions-redesign)** | JavaScript / Vite | Bilingual marketing site for NX Solutions UG showcasing our product ecosystem and services |
 
 ---
 
