@@ -41,8 +41,6 @@ Tools and extensions designed for autonomous agentic workflows and developer pro
 | Project | Lang / Tech | Description |
 |---------|-------------|-------------|
 | **[wiki-agent](https://github.com/nx-solutions-ug/wiki-agent)** | TypeScript / Bun | Standalone documentation agent (Ollama & OpenAI-compatible) that inspects codebases and generates structured wikis under `.wiki/` |
-| **[omp-comment-checker](https://github.com/nx-solutions-ug/omp-comment-checker)** | TypeScript | Comment checker hook for oh-my-pi with self-healing context injection via `session_compact` |
-| **[skill-sync](https://github.com/nx-solutions-ug/skill-sync)** | TypeScript | Tool to sync agent skills across harness directories via symlinks to a common store |
 
 ### 📱 Platforms & In-House Products
 
