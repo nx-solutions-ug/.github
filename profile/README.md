@@ -27,7 +27,7 @@ We don't just develop for clients — we build our own products that we use ever
 
 | Project | Lang / Tech | Description |
 |---------|-------------|-------------|
-| **[Chronova](https://chronova.dev)** | TypeScript / Next.js | Developer analytics platform tracking coding activity through heartbeats — dashboards, goal tracking, team organizations, WakaTime-compatible APIs |
+| **[chronova](https://chronova.dev)** | TypeScript / Next.js | Developer analytics platform tracking coding activity through heartbeats — dashboards, goal tracking, team organizations, WakaTime-compatible APIs |
 | **[chronova-android](https://github.com/nx-solutions-ug/chronova-android)** | Kotlin | Native Android client for Chronova developer analytics |
 | **[chronova-cli](https://github.com/nx-solutions-ug/chronova-cli)** | Rust | High-performance, drop-in replacement for `wakatime-cli` |
 | **[chronova-mcp](https://github.com/nx-solutions-ug/chronova-mcp)** | TypeScript | MCP server exposing Chronova productivity data to AI agents via the Model Context Protocol |
