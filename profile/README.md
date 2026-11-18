@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nx-solutions-ug/.github/main/profile/banner.png" alt="NX Solutions UG — Modern Software Engineering, Quality over Quantity" width="850" />
+</p>
+
 # NX Solutions UG
 
 **Modern Software Engineering — Quality over Quantity.**
@@ -41,13 +45,19 @@ Tools and extensions designed for autonomous agentic workflows and developer pro
 | Project | Lang / Tech | Description |
 |---------|-------------|-------------|
 | **[wiki-agent](https://github.com/nx-solutions-ug/wiki-agent)** | TypeScript / Bun | Standalone documentation agent (Ollama & OpenAI-compatible) that inspects codebases and generates structured wikis under `.wiki/` |
+| **[hindsight-antigravity-plugin](https://github.com/nx-solutions-ug/hindsight-antigravity-plugin)** | TypeScript | Long-term project memory for Google Antigravity through Hindsight: mental models, automatic topic recall and autolearning |
+| **[imagerouter-mcp](https://github.com/nx-solutions-ug/imagerouter-mcp)** | TypeScript / Bun | MCP server and local dashboard for generating and editing images and videos through the ImageRouter API |
+| **[slack-await-claude-plugin](https://github.com/nx-solutions-ug/slack-await-claude-plugin)** | TypeScript | Claude Code plugin that wakes a waiting session when a colleague replies in Slack |
+| **[staging-device-check](https://github.com/nx-solutions-ug/staging-device-check)** | TypeScript | Claude Code plugin that tests a Jira ticket on real phones (BrowserStack) against a staging system |
+| **[weekmind-claude-plugin](https://github.com/nx-solutions-ug/weekmind-claude-plugin)** | Claude Code plugin | Plan your week with Weekmind right from Claude Code |
 
 ### 📱 Platforms & In-House Products
 
 | Project | Lang / Tech | Description |
 |---------|-------------|-------------|
-| **[KitaCom](https://github.com/nx-solutions-ug/kitacom)** | TypeScript / Next.js | Multi-tenant kindergarten communication platform with real-time messaging, attendance tracking, meal planning, and PWA |
-| **[nx-solutions-redesign](https://github.com/nx-solutions-ug/nx-solutions-redesign)** | JavaScript / Vite | Bilingual marketing site for NX Solutions UG showcasing our product ecosystem and services |
+| **[Weekmind](https://weekmind.app)** | TypeScript | AI planner that schedules tasks and routines around your calendar — with a Claude Code plugin and MCP server |
+| **KitaCom** | TypeScript / Next.js | Multi-tenant kindergarten communication platform with real-time messaging, attendance tracking, meal planning, and PWA |
+| **[nx-solutions.de](https://nx-solutions.de)** | JavaScript / Vite | Bilingual marketing site for NX Solutions UG showcasing our product ecosystem and services |
 
 ---
 
